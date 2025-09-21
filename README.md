@@ -1,7 +1,3 @@
-# vasp-unit_cell
-This Python script calculates unit cell parameters from lattice vectors in a VASP structure file.
-
-
 # Unit Cell Parameter Calculator
 
 A utility for extracting and calculating crystallographic unit cell parameters from VASP POSCAR files.
